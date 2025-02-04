@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Amy Wang</h1>
 
 <p align="center">
   🚀 Backend Developer | 🤖 AI & Game Enthusiast | 🛠️ Building Scalable Solutions
@@ -22,12 +22,13 @@
 - 🔹 AI-driven event forecasting  
 - 🔹 Dynamic probability calculation  
 - 🔹 Angular-based frontend with .NET backend  
-- 🔹 Integrates with DeepSeek AI for reasoning  
+- 🔹 Integrates with Google AI for reasoning  
 
 ---
 
 ### 🎮 Bubble Hero  
-> **A platformer game with fun mechanics and exciting levels.**  
+> **A platformer game with fun mechanics and exciting levels.**
+> **Developed collaboratively with my team.**    
 
 - 🕹️ Classic platform jumping mechanics  
 - 🎨 Unique levels and power-ups  
