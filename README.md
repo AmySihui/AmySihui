@@ -9,7 +9,7 @@
 ## 🌟 About Me  
 - 💻 **Backend Developer** focused on building scalable and efficient systems  
 - 🤖 Co-developing **IntelliMap Decision**, an AI-powered decision-making tool with my team  
-- 🎮 Creator of **Bubble Hero**, a platformer game available on Itch.io  
+- 🎮 Co-developing **Bubble Hero**, a platformer game available on Itch.io  
 - 📚 Passionate about AI, backend architecture, and system design  
 
 ---
